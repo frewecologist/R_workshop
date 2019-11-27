@@ -5,3 +5,7 @@ You stage them, and then click commit.
 You then might continue to work on those files and make some changes. You save them.
 
 Git will 'recognise' these are modified, so you can then click stage, and click on Diff. You can view the changes at this point. You shoudl decribe the changes you have made, and then you can commit that version to github. 
+
+
+So I just committed this file to Git, but now I've made some changes.
+I will now save this file, and you will see on the right that Git recognises the changes. 
