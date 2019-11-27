@@ -1,6 +1,6 @@
 You have files that are not known or committed.
 
-You stage them, and then click commit.
+You stage them, give a comment of what it is, and then click commit.
 
 You then might continue to work on those files and make some changes. You save them.
 
@@ -9,3 +9,5 @@ Git will 'recognise' these are modified, so you can then click stage, and click 
 
 So I just committed this file to Git, but now I've made some changes.
 I will now save this file, and you will see on the right that Git recognises the changes. 
+
+You will now stage, click diff, and add a comment of the changes.
