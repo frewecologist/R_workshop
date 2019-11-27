@@ -214,15 +214,3 @@ mtext("Species 2", side = 3, line = 0.5, adj = 0.02, cex = 1.5)
 # great, but this seems like a huge amount of copy-paste and a lot of
 #   opportunities for mistakes if we want to plot three species by
 #   four predictors. What if we had more species or more predictors?
-#NEW CHANGE 
-
-#now I am testing this 
-
-
-#jhuhhhjhjhj
-
-
-
-#ANOTHER CHANGE
-
-#testing this for version control 
